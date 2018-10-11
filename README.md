@@ -1,7 +1,7 @@
 Lab Analysis Data:
 
-Discovery / Requirements
-Collection
+Discovery / Requirements Collection
+
 Data Prep / Cleaning
 
 Exploration / Planning
@@ -13,4 +13,4 @@ Automation / Computation
 
 Findings / Review / Repeat
 
-Discover / Requirements 
+Discover / Requirements
